@@ -7,5 +7,6 @@
 - 🤔 I’m looking for help with Documentation
 - 😄 Pronouns: he/ his
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshnahata&layout=compact)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lokeshnahata&theme=highcontrast&show_icons=true&count_private=true)
