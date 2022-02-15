@@ -10,3 +10,5 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshnahata&layout=compact)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lokeshnahata&theme=radical&show_icons=true&count_private=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokeshnahata&repo=github-readme-stats)](https://github.com/lokeshnahata/github-readme-stats)
